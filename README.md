@@ -1,7 +1,7 @@
 # Queue
 This code is for queue operations:-
-Enqueue
-Dequeue
-Display
-is Empty
-is Full
+1)Enqueue
+2)Dequeue
+3)Display
+4)is Empty
+5)is Full
